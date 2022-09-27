@@ -1,5 +1,7 @@
 # Projeto desenvolvido na "Seção 4: CSS 3" do curso "Desenvolvimento Web Completo 2022".
 
+Link para visualização: https://monicaquintal.github.io/TecBlog/
+
 ## Conteúdos desenvolvidos:
 
 ### Aula 01:
